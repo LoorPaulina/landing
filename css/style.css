@@ -504,7 +504,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 }
 
 .fa-users-cog::before{
-    content: '\f0f1';
+    content: '\f091';
 }
 
 .fa-check::before{
