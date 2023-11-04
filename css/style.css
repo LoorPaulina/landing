@@ -468,6 +468,51 @@ h4, h5, h6, .h4, .h5, .h6 {
 }
 /*** Footer End ***/
 
+/**aditional**/
+.text-dark{
+    width: 150px;   
+}
+
+.position-absolute{
+    top: 15px; 
+    right: 20px;
+}
+
+#img-form, #img-form2 {
+    object-fit: cover; 
+    opacity: 0.7;
+}
+
+.fa-cheese::before{
+    content: '\f015';
+}
+
+.fa-pizza-slice::before{
+    content: '\f0f0';
+}
+
+.fa-hotdog::before {
+    content: '\f6d3';
+}
+
+.fa-hamburger::before{
+    content: '\f1b9';
+}
+
+.fa-users::before{
+    content: '\f007';
+}
+
+.fa-users-cog::before{
+    content: '\f0f1';
+}
+
+.fa-check::before{
+    content: '\f091';
+}
+
+
+
 
 
 
